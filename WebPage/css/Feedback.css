@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+description
+{
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  font-size: 30px;
+  margin: 0 auto;
+  width: 100%;
+  display: block;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  text-transform: uppercase;
+  font-size: 20px;
+  color: #000;
+  text-align: center;
+  margin-bottom: 15px;
+}
