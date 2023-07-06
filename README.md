@@ -14,7 +14,7 @@ Setup
 -Connect all the components following the specific instructions and required connections. <br>
 -Download and install the Arduino IDE (https://www.arduino.cc/en/software). <br>
 -Open the Arduino IDE and install the necessary libraries: <br>
-      -ESP8266 core for Arduino - Make sure you select the ESP8266 board in Tools > Board. <br>
+    &nbsp;  -ESP8266 core for Arduino - Make sure you select the ESP8266 board in Tools > Board. <br>
       -Adafruit GFX Library for graphics control of the LCD. <br>
       -Adafruit SSD1306 Library for communication with the SSD1306-based LCD. <br>
       -Adafruit Fingerprint Sensor Library for the fingerprint sensor. <br>
