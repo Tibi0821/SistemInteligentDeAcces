@@ -22,4 +22,4 @@ To implement this system, you will need the following components: <br>
 -After successful upload, you should see debug messages on the serial console indicating the system initialization and fingerprint sensor status. <br>
 -Test the functionality of the access system. Use the fingerprint sensor to register and authenticate fingerprints. The appropriate messages will be displayed on the LCD. <br>
 
-&nbsp;&nbsp; Thank you, and we hope you have a pleasant experience with this intelligent access system!
+&nbsp;&nbsp; Thank you, and I hope you have a pleasant experience with this intelligent access system!
