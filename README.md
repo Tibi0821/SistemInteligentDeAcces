@@ -1,4 +1,4 @@
-# SistemInteligentDeAcces
+#SistemInteligentDeAcces
 This project represents an intelligent access system that utilizes the ESP8266 development board, an 0.96" OLED Display, and a fingerprint sensor to allow users access to a restricted space. <br>
 
 Required Components
@@ -10,7 +10,7 @@ To implement this system, you will need the following components: <br>
 -Breadboard and connecting wires <br>
 -Power supply (USB cable for powering the ESP8266 board) <br>
 
-Setup
+Setup<br>
 -Connect all the components following the specific instructions and required connections. <br>
 -Download and install the Arduino IDE (https://www.arduino.cc/en/software). <br>
 -Open the Arduino IDE and install the necessary libraries: <br>
