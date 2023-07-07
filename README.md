@@ -1,4 +1,4 @@
-#SistemInteligentDeAcces
+# SistemInteligentDeAcces
 This project represents an intelligent access system that utilizes the ESP8266 development board, an 0.96" OLED Display, and a fingerprint sensor to allow users access to a restricted space. <br>
 
 Required Components
