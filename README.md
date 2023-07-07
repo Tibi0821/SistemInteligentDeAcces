@@ -1,8 +1,7 @@
 # SistemInteligentDeAcces
-This project represents an intelligent biometric attendance access system that utilizes the ESP8266 development board, an 0.96" OLED Display, and a fingerprint sensor. <br>
+&nbsp;&nbsp; This project represents an intelligent biometric attendance access system that utilizes the ESP8266 development board, an 0.96" OLED Display, and a fingerprint sensor. <br>
 
-Required Components
-
+<u><b>Required Components</b></u> <br>
 To implement this system, you will need the following components: <br>
 -ESP8266 development board <br>
 -0.96" OLED Display <br>
@@ -10,7 +9,7 @@ To implement this system, you will need the following components: <br>
 -Breadboard and connecting wires <br>
 -Power supply (USB cable for powering the ESP8266 board) <br>
 
-Setup<br>
+<u><b>Setup</u></b><br>
 -Connect all the components following the specific instructions and required connections. <br>
 -Download and install the Arduino IDE (https://www.arduino.cc/en/software). <br>
 -Open the Arduino IDE and install the necessary libraries: <br>
@@ -23,4 +22,4 @@ Setup<br>
 -After successful upload, you should see debug messages on the serial console indicating the system initialization and fingerprint sensor status. <br>
 -Test the functionality of the access system. Use the fingerprint sensor to register and authenticate fingerprints. The appropriate messages will be displayed on the LCD. <br>
 
--Thank you, and we hope you have a pleasant experience with this intelligent access system!
+&nbsp;&nbsp; Thank you, and we hope you have a pleasant experience with this intelligent access system!
